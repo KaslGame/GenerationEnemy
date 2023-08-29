@@ -416,8 +416,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20c3b76de4b80f549bc6f49b113fb398, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemyPrefab: {fileID: 6586401089964883015, guid: f2a784d60fe179441a146eee04114660, type: 3}
+  _prefab: {fileID: 6586401089964883015, guid: f2a784d60fe179441a146eee04114660, type: 3}
   _target: {fileID: 372806490}
+  secondsRespawn: 2
 --- !u!4 &1342061868
 Transform:
   m_ObjectHideFlags: 0
